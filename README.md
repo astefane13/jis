@@ -1,3 +1,3 @@
 # jis
 
-This is the new workflow!
+This is an obsolete workflow, please use command line!
